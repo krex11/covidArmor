@@ -1,0 +1,11 @@
+bottom: TabBar(
+            tabs: [
+              Tab(icon: Icon(Icons.chat)),
+              Tab(
+                icon: Icon(Icons.ac_unit),
+              ),
+              Tab(
+                icon: Icon(Icons.ac_unit_rounded),
+              )
+            ],
+          ),
